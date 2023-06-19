@@ -1,17 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - prints all strings  from 0 to 9
- * Return: Always 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int num;
-
-	for (num = 0; num < 10; num++)
-		printf("%d", num);
-	
-	printf('\n');
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 
 	return (0);
 }
